@@ -13,7 +13,6 @@ color: #ffffff;
    display: flex;
     padding-top: 40px;
     padding-left: 100px;
-
 }
 
 .site-menu {
@@ -29,8 +28,6 @@ padding: ;
      display: flex;
     flex-wrap: wrap;
     margin-top: 20px
-
-
 }
 
 .site-menu1 li{
@@ -47,5 +44,6 @@ padding: ;
 }
 h1 {
     color: #ffffff;
+   margin-left: 100px;
 }
 
