@@ -1,6 +1,7 @@
 header {
 background-color: #222222;
 height: 500px;
+width: 100%;
 }
 .menu {
 color: #ffffff;
@@ -13,6 +14,7 @@ color: #ffffff;
    display: flex;
     padding-top: 40px;
     padding-left: 100px;
+
 }
 
 .site-menu {
@@ -22,18 +24,19 @@ color: #ffffff;
 }
 
 .site-menu1 { 
-margin-left: 500px;
+margin-left: 300px;
 padding: ;
     list-style: none;
      display: flex;
     flex-wrap: wrap;
     margin-top: 20px
+
+
 }
 
 .site-menu1 li{
     padding: 10px;
     margin-top: 20px;
-     margin-right: 50px;
 }
 .site-menu li {
     margin-left: 20px;
@@ -46,10 +49,23 @@ padding: ;
 h1 {
     color: #ffffff;
     margin-left: 70px;
-    font-size: 60px;
+    font-size: 50px;
 }
 
-.moon {
-
+.moon1 {
+    margin-left: 500px;
+    margin-bottom: px;
+}
+.opis {
+    
+    
 }
 
+.middle {
+display: flex;
+    
+}
+p1 {
+    color:#d4d4d4;
+    margin-left: 50px;
+}
